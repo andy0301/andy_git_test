@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo -e "Hello, Andy's first dev git script"
+echo -e "Merge to master"
