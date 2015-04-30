@@ -1,3 +1,4 @@
 #!/bin/bah
 
 echo -e "Hello Andy's first git repo"
+echo -e "Git dev1 merge test"
